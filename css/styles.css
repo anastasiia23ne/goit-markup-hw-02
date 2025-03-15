@@ -75,7 +75,7 @@ font-family: "Raleway", sans-serif;
 .contacts-link:focus,
 .hero-btn:hover,
 .hero-btn:focus {
-    color: #404bbf;
+    background-color: #404bbf;
 }
 
 .principles-title, .team-title, .portfolio-title {
