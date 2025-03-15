@@ -72,7 +72,10 @@ font-family: "Raleway", sans-serif;
 .nav-link:hover,
 .nav-link:focus,
 .contacts-link:hover,
-.contacts-link:focus,
+.contacts-link:focus {
+    color: #404bbf;
+}
+
 .hero-btn:hover,
 .hero-btn:focus {
     background-color: #404bbf;
