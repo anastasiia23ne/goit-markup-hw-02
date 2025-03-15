@@ -97,7 +97,7 @@ font-family: "Raleway", sans-serif;
         color: #2e2f42;
 }
 
-.principles-item {
+.principles-item, .team-item {
     background-color: #ffffff;
 }
 
