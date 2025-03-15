@@ -48,6 +48,13 @@ font-family: "Raleway", sans-serif;
         color: #434455;
 }
 
+.nav-link:hover,
+.nav-link:focus,
+.contacts-link:hover,
+.contacts-link:focus {
+    color: #404bbf;
+}
+
 .hero {
     background-color: #2e2f42;
 }
@@ -67,13 +74,6 @@ font-family: "Raleway", sans-serif;
     color: #fff;
     background-color: #4d5ae5;
     cursor: pointer;
-}
-
-.nav-link:hover,
-.nav-link:focus,
-.contacts-link:hover,
-.contacts-link:focus {
-    color: #404bbf;
 }
 
 .hero-btn:hover,
